@@ -23,7 +23,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 h1,
 h2 {
   font-weight: normal;
@@ -31,9 +31,5 @@ h2 {
 ul {
   list-style-type: none;
   padding: 0;
-}
-li {
-  display: block;
-  margin: 0 10px;
 }
 </style>
